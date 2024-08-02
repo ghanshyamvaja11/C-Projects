@@ -546,7 +546,7 @@ void Matrix_Multiplication()
     printf ("\nTwo Matrix Multiplication (A*B)\n ");
     printf("\nInput For First Matrix\n\nRow=");
     scanf("%d", &A_Row);
-    printf ("\Column=");
+    printf ("\nColumn=");
     scanf ("%d",&A_Column);
     printf ("\nInput For Second Matrix \n\n");
 
